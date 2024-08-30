@@ -1,0 +1,23 @@
+@import url(grid.css);
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor{
+  margin: 0 auto;
+  width: 80%;
+  height: 80vh;
+  background-color: black;
+  border: solid 1px black;
+}
+
+.item{
+  padding: 1rem;
+  font-size: 1.25rem;
+  background: #999;
+  border: solid 1px #888;
+}
+
